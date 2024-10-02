@@ -1,0 +1,27 @@
+body{
+    background-color: gold;font-family: sans-serif;
+}
+.container{
+    background-color: white;padding: 20px;border: 1px solid white;border-radius: 10px;margin: 40px auto;
+}
+h1{
+    color: purple;font-size: 36px;text-align: center;margin-top: 0 ;
+}
+p{
+    font-size: 18px; color: 18px;
+    color: green;
+}
+header{
+    color: white;padding: 20px;text-align: center;background-color:  white;
+}
+header nav ul{
+    list-style: none;margin: 0;padding: 0;
+}
+header nav ul li{
+    display: inline-block;
+    margin-right: 20px;
+}
+header nav a{
+    color:red;text-decoration: 
+    none;
+}
